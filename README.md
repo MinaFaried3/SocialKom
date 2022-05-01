@@ -10,6 +10,9 @@
 ###Features
 Real-Time social app:
   main tools : Flutter - Firebase - BloC
+  
+  
+  
   1- adding posts and stories
   2- likes and comments
   3- edit posts
@@ -22,6 +25,8 @@ Real-Time social app:
   10- save posts in save posts screen on the app
   11- save posts images in gallery
   12- chats and messages
+  
+  
   
 don't forget to follow me
 ###My contact
