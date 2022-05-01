@@ -1,16 +1,31 @@
-# socialkom
+##SocialKom (Social App)
 
-A new Flutter project.
+#####First Notice this:
+  you need to link the app with fire base by:
+    1- adding google-services.json for android
+    2- adding google-services.plist for ios
+    3- creating firebaseoptions.dart to lib dir
+    
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Features
+Real-Time social app:
+  main tools : Flutter - Firebase - BloC
+  1- adding posts and stories
+  2- likes and comments
+  3- edit posts
+  4- update profile
+  5- change theme (dark - light)
+  6- translate posts text from en to ar
+  7- notifications screen
+  8- search users
+  9- show friend's profile
+  10- save posts in save posts screen on the app
+  11- save posts images in gallery
+  12- chats and messages
+  
+don't forget to follow me
+###My contact
+LinkedIn : https://www.linkedin.com/in/minafaried/
+Facebook : https://www.facebook.com/mina.f.eldihabi
+Facebook page : https://www.facebook.com/minofaridphotographer
+Instagram : https://www.instagram.com/mino_f.eldihabi/
